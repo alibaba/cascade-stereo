@@ -1,5 +1,5 @@
 # Casacde-Stereo
-Official source code of paper Cascade Cost Volume for High-Resolution Deep Stereo and Multi-View Stereo, [Arxiv](xxxx)
+Official source code of paper Cascade Cost Volume for High-Resolution Deep Stereo and Multi-View Stereo, [arxiv](https://arxiv.org/pdf/1912.06378.pdf)
 
 # Installation
 ## Requirements
@@ -31,7 +31,7 @@ If you find this code useful in your research, please cite:
 @inproceedings{gu2019cas,
   title={Cascade Cost Volume for High-Resolution Deep Stereo and Multi-View Stereo},
   author={Gu, Xiaodong and Fan, Zhiwen and Zhu, Siyu and Dai, Zuozhuo and Tan, Feitong and Tan, Ping},
-  journal={arxiv xxx},
+  journal={arxiv preprint arXiv:1912.06378},
   year={2019}
 }
 ```
