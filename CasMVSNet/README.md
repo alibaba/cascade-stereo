@@ -51,10 +51,10 @@ export save_results_dir="./outputs"
 | CasMVSNet(D=48,32,8)  | 0.325  | 0.385  | 0.355    |
 
 ## Results on Tanks and Temples benchmark
-|Mean   | Family | Francis | Horse  | Lighthouse | M60    | Panther | Playground | Train |
-|----------------|---------|--------|------------|--------|---------|------------|-------|
-|56.42  | 76.36	 | 58.45   | 46.20  | 55.53	     | 56.11  | 54.02   | 58.17	     | 46.56 |
-Please refer to [leaderboard]https://www.tanksandtemples.org/details/691/.
+| Mean   | Family | Francis | Horse  | Lighthouse | M60    | Panther | Playground | Train |
+|-----------------|---------|--------|------------|--------|---------|------------|-------|
+| 56.42  | 76.36  | 58.45   | 46.20  | 55.53	  | 56.11  | 54.02   | 58.17	  | 46.56 |
+Please refer to [leaderboard](https://www.tanksandtemples.org/details/691/).
 
 # CasMVSNet input from COLMAP SfM
 We use a script provided by [MVSNet](https://github.com/YoYo000/MVSNet) to convert COLMAP SfM 
