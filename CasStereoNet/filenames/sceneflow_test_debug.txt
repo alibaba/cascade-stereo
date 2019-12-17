@@ -1,0 +1,6 @@
+frames_finalpass/TEST/A/0000/left/0008.png frames_finalpass/TEST/A/0000/right/0008.png disparity/TEST/A/0000/left/0008.pfm
+frames_finalpass/TEST/A/0000/left/0009.png frames_finalpass/TEST/A/0000/right/0009.png disparity/TEST/A/0000/left/0009.pfm
+frames_finalpass/TEST/A/0000/left/0007.png frames_finalpass/TEST/A/0000/right/0007.png disparity/TEST/A/0000/left/0007.pfm
+frames_finalpass/TEST/A/0000/left/0012.png frames_finalpass/TEST/A/0000/right/0012.png disparity/TEST/A/0000/left/0012.pfm
+frames_finalpass/TEST/A/0000/left/0013.png frames_finalpass/TEST/A/0000/right/0013.png disparity/TEST/A/0000/left/0013.pfm
+frames_finalpass/TEST/A/0000/left/0015.png frames_finalpass/TEST/A/0000/right/0015.png disparity/TEST/A/0000/left/0015.pfm

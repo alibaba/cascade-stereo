@@ -1,0 +1,10 @@
+.idea/
+outputs/
+*.bin
+checkpoints/
+__pycache__
+data/
+events.out.*
+*.pyc
+*.cpkt
+tmp*/
