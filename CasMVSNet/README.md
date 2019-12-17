@@ -54,6 +54,7 @@ export save_results_dir="./outputs"
 | Mean   | Family | Francis | Horse  | Lighthouse | M60    | Panther | Playground | Train |
 |-----------------|---------|--------|------------|--------|---------|------------|-------|
 | 56.42  | 76.36  | 58.45   | 46.20  | 55.53	  | 56.11  | 54.02   | 58.17	  | 46.56 |
+
 Please refer to [leaderboard](https://www.tanksandtemples.org/details/691/).
 
 # CasMVSNet input from COLMAP SfM
