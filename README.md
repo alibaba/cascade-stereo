@@ -1,5 +1,5 @@
 # Casacde-Stereo
-Official source code of paper Cascade Cost Volume for High-Resolution Deep Stereo and Multi-View Stereo, [arxiv](https://arxiv.org/pdf/1912.06378.pdf)
+Official source code of paper Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching, [arxiv](https://arxiv.org/pdf/1912.06378.pdf)
 
 # Installation
 ## Requirements
@@ -20,16 +20,16 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 ```
 
 # CasMVSNet(Multi View Stereo)
-refer to [MVS-README.md](CasMVSNet/README.md)
+Refer to [MVS-README.md](CasMVSNet/README.md)
 # CasStereoNet(Stereo Matching)
-refer to [Stereo-Matching-README.md](CasStereoNet/README.md)
+Refer to [Stereo-Matching-README.md](CasStereoNet/README.md)
 
 # Citation
 If you find this code useful in your research, please cite:
 
 ```
 @inproceedings{gu2019cas,
-  title={Cascade Cost Volume for High-Resolution Deep Stereo and Multi-View Stereo},
+  title={Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching},
   author={Gu, Xiaodong and Fan, Zhiwen and Zhu, Siyu and Dai, Zuozhuo and Tan, Feitong and Tan, Ping},
   journal={arxiv preprint arXiv:1912.06378},
   year={2019}

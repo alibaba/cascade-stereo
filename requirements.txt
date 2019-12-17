@@ -4,3 +4,4 @@ numpy
 pillow
 tensorboardX
 opencv-python
+plyfile
