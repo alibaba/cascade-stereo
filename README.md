@@ -4,7 +4,7 @@ Official source code of paper Cascade Cost Volume for High-Resolution Multi-View
 # Installation
 ## Requirements
 * python 3.6
-* Pytorch >= 1.0.0
+* Pytorch == 1.2
 * CUDA >= 9.0
 
 ```
