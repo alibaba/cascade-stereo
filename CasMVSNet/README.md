@@ -67,6 +67,6 @@ COLMAP/dense/images/ and a undistorted camera folder COLMAP/dense/sparse/. Then,
 ```
 export $save_results_dir="outputs/colmap"
 python colmap2mvsnet.py --dense_folder COLMAP/dense  --save_folder $save_scene_result/casmvsnet
-./test.sh  $CKPT_FILE  --testpath_single_scene $save_results_dir/casmvsnet  --teslist all --outdir $save_results_dir/ply --interval_scale 1.06  
+./test.sh  $CKPT_FILE  --testpath_single_scene $save_results_dir/casmvsnet  --testlist all --outdir $save_results_dir/ply --interval_scale 1.06  
 ```
 
