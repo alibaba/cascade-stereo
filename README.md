@@ -28,11 +28,12 @@ Refer to [Stereo-Matching-README.md](CasStereoNet/README.md)
 If you find this code useful in your research, please cite:
 
 ```
-@inproceedings{gu2019cas,
-  title={Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching},
+@inproceedings{gu2020cascade,
+  title={Cascade cost volume for high-resolution multi-view stereo and stereo matching},
   author={Gu, Xiaodong and Fan, Zhiwen and Zhu, Siyu and Dai, Zuozhuo and Tan, Feitong and Tan, Ping},
-  journal={arxiv preprint arXiv:1912.06378},
-  year={2019}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2495--2504},
+  year={2020}
 }
 ```
 
